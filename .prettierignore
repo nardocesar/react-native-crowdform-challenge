@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+.expo
+node_modules
+
+.eslintrc.json
+.prettierrc
+
+babel.config.js
+
+package.json
+package-lock.json
+
+tsconfig.json
+app.json
